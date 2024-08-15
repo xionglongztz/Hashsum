@@ -1,0 +1,11 @@
+E:\Projects\VisualStudio2022\Hashsum\bin\Debug\Hashsum.exe
+E:\Projects\VisualStudio2022\Hashsum\bin\Debug\Hashsum.pdb
+E:\Projects\VisualStudio2022\Hashsum\bin\Debug\Hashsum.xml
+E:\Projects\VisualStudio2022\Hashsum\obj\Debug\Hashsum.vbproj.AssemblyReference.cache
+E:\Projects\VisualStudio2022\Hashsum\obj\Debug\Hashsum.Resources.resources
+E:\Projects\VisualStudio2022\Hashsum\obj\Debug\Hashsum.vbproj.GenerateResource.cache
+E:\Projects\VisualStudio2022\Hashsum\obj\Debug\Hashsum.vbproj.CoreCompileInputs.cache
+E:\Projects\VisualStudio2022\Hashsum\obj\Debug\Hashsum.exe
+E:\Projects\VisualStudio2022\Hashsum\obj\Debug\Hashsum.xml
+E:\Projects\VisualStudio2022\Hashsum\obj\Debug\Hashsum.pdb
+E:\Projects\VisualStudio2022\Hashsum\obj\Debug\Hashsum.frmMain.resources
